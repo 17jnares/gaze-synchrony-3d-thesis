@@ -79,9 +79,9 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-Data: includes small anonymized demo files in data/raw/demo/participant_*/.
-Layout: includes data/raw/layout/Stage_Layout_Coordinates.csv with columns:
-Participant, X Distance from center (cm) - pitch axis, Y Distance from center (cm) - yaw axis, Z Distance from center (cm) - roll axis.
+- Data: includes small anonymized demo files in ```data/raw/demo/participant_*/```.
+- Layout: includes ```data/raw/layout/Stage_Layout_Coordinates.csv``` with columns:
+```Participant, X Distance from center (cm) - pitch axis, Y Distance from center (cm) - yaw axis, Z Distance from center (cm) - roll axis```.
 
 ---
 ## 🚀 Notebook demo
