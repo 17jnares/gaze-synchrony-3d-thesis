@@ -15,7 +15,7 @@ The work is motivated by **cortical time-scale architecture** and temporal integ
 
 ---
 
-## 🔎 What this shows (skills)
+## 🔑 Key Skills Demonstrated
 - Time-series engineering: resampling, timestamp alignment (50 Hz), Butterworth filtering
 - Sensor fusion: gyroscope integration → heading; gaze normalization → 3D world transform
 - Windowed correlation analysis: Fisher-z averaging across axes, pairwise & individual→group
@@ -23,7 +23,7 @@ The work is motivated by **cortical time-scale architecture** and temporal integ
 
 ---
 
-## 📁 Repository structure
+## 📁 Project Structure
 ```
 Gaze-synchrony-3d-thesis/
 ├── README.md
