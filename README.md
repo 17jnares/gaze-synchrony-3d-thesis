@@ -17,7 +17,7 @@ The work is motivated by **cortical time-scale architecture** and temporal integ
 ‭ -105cm, 360cm, 103cm) relative to center-stage, given by “Eye-in-world” vector as calculated‬
 ‭ from 3D positioning algorithm (```positioning-3d.py```).
 
-➡️ [View pipeline notebook here](https://17jnares.github.io/gaze-synchrony-3d-thesis/gaze-synchrony-demo.html)
+➡️ [View full pipeline notebook here](https://17jnares.github.io/gaze-synchrony-3d-thesis/gaze-synchrony-demo.html)
 
 ![3d gaze trajectory demo visualization](docs/demo.png)
 
