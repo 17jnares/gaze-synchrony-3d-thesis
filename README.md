@@ -78,14 +78,10 @@ Participant, X Distance from center (cm) - pitch axis, Y Distance from center (c
 ---
 ## 🚀 Notebook demo
 Open notebooks/gaze-synchrony-demo.py in VS Code/Jupyter.
-
 Run top-to-bottom to reproduce plots:
-
-3D gaze trajectory (per participant)
-
-Pairwise group-average & all-pairs curves (1 s / 5 s)
-
-Individual→group-minus-self synchrony (1 s / 5 s)
+- 3D gaze trajectory (per participant)
+- Pairwise group-average & all-pairs curves (1 s / 5 s)
+- Individual→group-minus-self synchrony (1 s / 5 s)
 
 ---
 ## ▶️ Running the Full Pipeline (repo root)
@@ -104,7 +100,7 @@ python src/positioning-3d.py --export-heading
 python src/synchrony.py
 ```
 
---
+---
 ## 📊 Outputs
 ```data/processed/demo/participant_*/eye_in_world.csv```
 World-frame gaze (x, y, z in cm) per sample at 50 Hz.
