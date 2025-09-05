@@ -13,6 +13,7 @@ The work is motivated by **cortical time-scale architecture** and temporal integ
 
 ![3d gaze trajectory demo visualization](docs/demo.png)
 
+📄 [View notebook as HTML](docs/gaze-synchrony-demo.html)
 ---
 
 ## 🔑 Key Skills Demonstrated
