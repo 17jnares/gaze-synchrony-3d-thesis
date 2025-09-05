@@ -81,7 +81,7 @@ Open notebooks/gaze-synchrony-demo.py in VS Code/Jupyter.
 Run top-to-bottom to reproduce plots:
 - 3D gaze trajectory (per participant)
 - Pairwise group-average & all-pairs curves (1 s / 5 s)
-- Individual→group-minus-self synchrony (1 s / 5 s)
+- Individual-to-group synchrony (1 s / 5 s)
 
 ---
 ## ▶️ Running the Full Pipeline (repo root)
