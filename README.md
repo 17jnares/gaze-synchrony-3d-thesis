@@ -106,11 +106,11 @@ python src/synchrony.py
 World-frame gaze (x, y, z in cm) per sample at 50 Hz.
 
 ```data/processed/demo/pairwise_sync/{5s,30s}/pairwise_group_sync.csv```
-Columns: time_s, PairID_A_B, …, GroupAverage.
-Pair values are Fisher-z averages of (r_x, r_y). GroupAverage is the mean of all r_x and r_y across pairs (per window).
+Columns: ```time_s, PairID_A_B, …, GroupAverage.```
+Pair values are Fisher-z averages of ```(r_x, r_y)```. GroupAverage is the mean of all ```r_x``` and ```r_y``` across pairs (per window).
 
 ```data/processed/demo/indiv_to_group_sync/{5s,30s}/indiv_vs_group_sync.csv```
-Columns: time_s, PartID_A, PartID_B, … (Fisher-z avg vs. group-minus-self per window).
+Columns: ```time_s, PartID_A, PartID_B, … (Individual r_avg vs. group-minus-self avg per window)```.
 
 ---
 ## 🔒 Notes on data & privacy
