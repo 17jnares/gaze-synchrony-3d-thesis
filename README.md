@@ -7,7 +7,7 @@ In collaboration with Neurolive @ UCL.*
 This project demonstrates a full pipeline for analyzing **eye-movement synchrony across participants**:
 **raw IMU + gaze → 50 Hz preprocessing → 3D gaze positioning → windowed synchrony** (pairwise and individual→group).
 
-The work is motivated by **cortical time-scale architecture** and temporal integration in perception/social cognition (e.g., Barrett; Friston; Decety & Jackson). In the thesis, we compare synchrony over **short (5 s)** and **longer (30 s)** windows to probe multi-scale alignment of attention. In this demo, **short (1 s)** and **longer (5 s)** windows are used.
+The work is motivated by **cortical time-scale architecture** and temporal integration in perception/social cognition (e.g., Barrett; Friston; Decety & Jackson). In the thesis, we compare synchrony over short (5 s) and longer (30 s) windows to probe multi-scale alignment of attention. In this demo, **short (1 s)** and **longer (5 s)** windows are used.
 
 > Full thesis available upon request.
 
@@ -24,6 +24,7 @@ The work is motivated by **cortical time-scale architecture** and temporal integ
 ---
 
 ## 📁 Repository structure
+```
 Gaze-synchrony-3d-thesis/
 ├── README.md
 ├── requirements.txt
@@ -61,7 +62,7 @@ Gaze-synchrony-3d-thesis/
 │                   └── indiv_vs_group_sync.csv
 └── docs/
        └── demo.png
-
+```
 ---
 ## ⚙️ Setup
 **Python**: 3.9+  
