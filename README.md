@@ -11,11 +11,11 @@ The work is motivated by **cortical time-scale architecture** and temporal integ
 
 > Full thesis available upon request.
 
+![3d eye position estimate vs True position from thesis](docs/thesis_eye_loc.png)
+
 ![3d gaze trajectory demo visualization](docs/demo.png)
 
 ➡️ [View pipeline notebook here](https://17jnares.github.io/gaze-synchrony-3d-thesis/gaze-synchrony-demo.html)
-
-![3d eye position estimate vs True position from thesis](docs/thesis_eye_loc.png)
 
 ---
 
