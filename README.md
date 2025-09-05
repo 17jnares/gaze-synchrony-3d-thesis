@@ -12,6 +12,10 @@ The work is motivated by **cortical time-scale architecture** and temporal integ
 > Full thesis available upon request.
 
 ![3d eye position estimate vs True position from thesis](docs/thesis_eye_loc.png)
+‭ (A) Gaze position (blue dot) relative to audience‬‭ members’ field-of-view, as given by pixel‬
+‭ coordinates in Pupil Labs Invisible eye-tracker data. (B) Estimated gaze position (blue dot,‬
+‭ -105cm, 360cm, 103cm) relative to center-stage, given by “Eye-in-world” vector as calculated‬
+‭ from 3D positioning algorithm (```positioning-3d.py```).
 
 ![3d gaze trajectory demo visualization](docs/demo.png)
 
